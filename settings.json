@@ -8,7 +8,7 @@
   "server": {
     "ip": "ArcadiaSmp_s4.aternos.me:23976",
     "port": 23976,
-    "version": "26.1.2",
+    "version": "1.26.1.2",
     "try-creative": false
   },
   "position": {
